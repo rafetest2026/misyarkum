@@ -1,0 +1,32 @@
+/* Owl Carousel v2 Theme - Default Theme */
+.owl-theme .owl-nav [class*='owl-']:hover {
+  background: #869791;
+  color: #FFF;
+  text-decoration: none;
+}
+.owl-theme .owl-nav [class*='owl-'] {
+  background: #D6D6D6;
+  color: white;
+  margin: 5px;
+  padding: 4px 7px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.owl-theme .owl-nav.disabled+.owl-dots {
+  margin-top: 10px;
+}
+.owl-theme.owl-loaded {
+  display: block;
+}
+.owl-theme.owl-loading {
+  opacity: 0;
+  display: block;
+}
+.owl-theme.owl-rtl {
+  direction: rtl;
+}
+.owl-theme.owl-rtl .owl-stage {
+  transform: translate3d(0px, 0px, 0px);
+  direction: rtl;
+}
