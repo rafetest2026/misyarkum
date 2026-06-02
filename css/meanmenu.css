@@ -1,0 +1,9 @@
+/*CssSyntaxError: <css input>:116:8: Unknown word
+
+  114 | 
+  115 | .mean-container .mean-nav ul li a:hover {
+> 116 |      ` background: #252525;
+      |        ^
+  117 |      background: rgba(255, 255, 255, 0.1);
+  118 | }
+*/
